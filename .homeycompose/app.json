@@ -1,6 +1,6 @@
 {
   "id": "app.thunderhome",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": ">=12.4.0",
   "sdk": 3,
   "runtime": "nodejs",
@@ -16,8 +16,8 @@
   "category": [
     "internet"
   ],
-  "homepage":"https://thunderhome.app/",
-  "source":"https://github.com/smarthomesven/homey-thunderhome",
+  "homepage": "https://thunderhome.app/",
+  "source": "https://github.com/smarthomesven/homey-thunderhome",
   "bugs": {
     "url": "https://thunderhome.app/#/forum/category/bug-reports"
   },

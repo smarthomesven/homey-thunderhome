@@ -1,0 +1,14 @@
+{
+  "name": "app.thunderhome",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {},
+  "devDependencies": {
+    "@types/homey": "npm:homey-apps-sdk-v3-types@^1.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.21.0",
+    "homey-oauth2app": "^3.7.4",
+    "ws": "^8.22.2"
+  }
+}
